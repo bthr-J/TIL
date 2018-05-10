@@ -1,2 +1,7 @@
 # TIL
-Today I learned
+Today I learned.
+
+**저는 매일 어떤 내용을 학습한 뒤에 이 곳에 올릴 것 입니다.**
+
+## 프론트엔드
+촤하하
